@@ -16,6 +16,5 @@
 - Base For Products `http://localhost:5000/api/products`
 
 ## Api routes are in the routes folder
-- All Products `http://localhost:5000/api/products`
-- Product by search `http://localhost:5000/api/products/search`
+- All Products / Product by search  `http://localhost:5000/api/products`
 - Single Product by id `http://localhost:5000/api/products/:id`
